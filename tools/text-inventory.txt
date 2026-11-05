@@ -1,0 +1,91 @@
+9971 | H2 | Main Navigation Menu
+10062 | SPAN | Who We Are
+10102 | SPAN | Our Purpose
+10138 | SPAN | Team
+10174 | SPAN | Join Us
+10210 | SPAN | News
+10249 | SPAN | Our Work
+10288 | SPAN | Publications
+10062 | SPAN | Who We Serve
+10102 | SPAN | Patients & Caregivers
+10138 | SPAN | Healthcare Professionals
+10177 | SPAN | Investors
+10252 | SPAN | Stock Info
+10288 | SPAN | Financials
+10324 | SPAN | Governance
+10360 | SPAN | Stay Informed
+1795 | SPAN | Every journey
+1997 | SPAN | needs a
+2189 | SPAN | Compass
+10052 | SPAN | needs a Compass
+2591 | DIV | We
+2591 | DIV | chart
+2591 | DIV | new
+2591 | DIV | pathways
+2591 | DIV | in
+2671 | DIV | mental
+2671 | DIV | health
+2671 | DIV | care
+2671 | DIV | toward
+2751 | DIV | finding
+2751 | DIV | clarity
+2751 | DIV | through
+2831 | DIV | self-discovery.
+3794 | H2 | Beyond the
+3793 | SPAN | plateau
+3940 | P | The limits of current care leave millions of people stuck in the flat, gray existence of chronic management with too few routes to relief. Our solution is a new
+4630 | SPAN | FIG 01 - THE SCALE
+4720 | H3 | More than 1B people globally
+4845 | P | are currently living with a mental health condition.
+4845 | P | This growing crisis is in desperate need of immediate intervention.
+4630 | SPAN | FIG 02 - THE BURDEN
+4720 | H3 | The #2 leading cause
+4845 | P | of a person’s years lived with disability (YLD) is a mental health condition,
+4845 | P | weighing down the lives of so many.
+4630 | SPAN | FIG 03 - THE URGENCY
+4720 | H3 | Every 43 seconds
+4845 | P | a life is lost to suicide
+4845 | P | —a staggering reality that drives us to advance potentially rapid and durable treatment options.
+6752 | SPAN | DRIVEN BY THE PEOPLE WE SERVE
+6790 | SPAN | THE MOST RIGOROUS SCIENTIFIC STANDARDS
+7447 | SPAN | WORLD’S LARGEST CLASSIC PSYCHEDELIC CLINICAL PROGRAM
+7516 | SPAN | WHAT WE’RE DEVELOPING
+7025 | H2 | Opening new dimensions of discovery
+7122 | DIV | Our science aims to unlock pathways to urgently needed new options for people living with some of the hardest-to-treat mental health conditions.
+7837 | H2 | We all have a why
+7965 | P | We work here because we refuse to accept the way things are. The evidence we’re developing through meticulous clinical work began with a need to do more for the
+8110 | SPAN | Hear more stories
+7856 | SPAN | 0:13
+7855 | SPAN | Compass walks the talk.
+7914 | SPAN | Transcript
+8008 | SPAN | 0:28
+8007 | SPAN | I've worked in the mental health space for over a decade, and while there have been some advancements, it is still very broken and leaves many people yearning t
+8160 | SPAN | 0:20
+8158 | SPAN | I've started telling people that for me, the work I do is the equivalent of getting to land on the moon.
+8311 | SPAN | 0:31
+8310 | SPAN | I regularly think forward to the prospect of being able to deliver our novel treatment to people who have spent years, and maybe even their whole lives, carryin
+8462 | SPAN | What makes working at Compass different is the rare alignment between mission, rigor, and humanity.
+8614 | SPAN | 0:27
+8613 | SPAN | If you want to be part of something big and make a real difference and be part of a once-in-a-lifetime opportunity, Compass can be a career-defining and life-de
+8795 | SPAN | View more
+9060 | H2 | Continue exploring
+9717 | SPAN | Learn more
+9911 | P | 1. “Mental Health: Strengthening Our Response.” World Health Organization. 8 October 2025.
+9912 | A | https://www.who.int/news-room/fact-sheets/detail/mental-health-strengthening-our-response
+9911 | P | 2. “World Mental Health Today.” World Health Organization. 2 September 2025.
+9930 | A | https://www.who.int/publications/i/item/9789240113817
+9911 | P | 3. “About 740,000 global deaths from suicide occur annually.” Health Data. 19 February 2025.
+9947 | A | https://www.healthdata.org/news-events/newsroom/news-releases/about-740000-global-deaths-suicide-occur-annually-thats-one
+10179 | SPAN | About Us
+10276 | SPAN | Our Team
+10179 | SPAN | Science & Research
+10179 | SPAN | Get Started
+10214 | SPAN | News & Events
+10471 | SPAN | Privacy Policy
+10471 | SPAN | Terms of Service
+10471 | SPAN | Unsolicited Information
+10471 | SPAN | Expanded Access
+10504 | SPAN | Contact Us
+10504 | SPAN | FAQ
+10488 | P | © 2026 Compass Pathways. All rights reserved.
+10632 | P | Unlocking pathways to be

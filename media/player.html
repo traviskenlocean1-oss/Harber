@@ -1,0 +1,40 @@
+<!doctype html>
+<!-- Local stand-in for the Vimeo background player the reference uses: plays /media/<v>.mp4 muted, looping,
+     cover-fit, and answers the Vimeo postMessage API (ready / play / pause / getPaused / addEventListener)
+     so the page's own pause button keeps working. -->
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex"><title>Harbor Mind video</title>
+<style>html,body{margin:0;height:100%;background:#000;overflow:hidden}video{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}</style></head>
+<body><video id="v" muted loop playsinline autoplay preload="auto"></video>
+<script>
+(function () {
+  var q = new URLSearchParams(location.search), name = (q.get('v') || 'hero').replace(/[^a-z0-9-]/gi, '');
+  var v = document.getElementById('v'), listeners = {}, origin = '*';
+  /* Workers static assets + Safari: load the whole file and play from a blob URL */
+  fetch('/media/' + name + '.mp4').then(function (r) { return r.blob(); }).then(function (b) { v.src = URL.createObjectURL(b); v.play().catch(function () {}); })
+    .catch(function () { v.src = '/media/' + name + '.mp4'; v.play().catch(function () {}); });
+  function send(o) { try { parent.postMessage(JSON.stringify(o), origin); } catch (e) {} }
+  function emit(ev, data) { if (listeners[ev]) send({ event: ev, data: data || {}, player_id: q.get('player_id') || undefined }); }
+  addEventListener('message', function (e) {
+    var m = e.data; if (typeof m === 'string') { try { m = JSON.parse(m); } catch (x) { return; } }
+    if (!m || !m.method) return;
+    var ret = function (value) { send({ method: m.method, value: value }); };
+    switch (m.method) {
+      case 'addEventListener': listeners[m.value] = true; break;
+      case 'removeEventListener': delete listeners[m.value]; break;
+      case 'play': v.play().catch(function () {}); break;
+      case 'pause': v.pause(); break;
+      case 'getPaused': ret(v.paused); break;
+      case 'getDuration': ret(v.duration || 0); break;
+      case 'getCurrentTime': ret(v.currentTime); break;
+      case 'setVolume': case 'setMuted': case 'setLoop': ret(true); break;
+      default: ret(null);
+    }
+  });
+  v.addEventListener('play', function () { emit('play'); });
+  v.addEventListener('playing', function () { emit('playing'); });
+  v.addEventListener('pause', function () { emit('pause'); });
+  v.addEventListener('timeupdate', function () { emit('timeupdate', { seconds: v.currentTime, duration: v.duration, percent: v.duration ? v.currentTime / v.duration : 0 }); });
+  send({ event: 'ready', player_id: q.get('player_id') || undefined });
+})();
+</script></body></html>

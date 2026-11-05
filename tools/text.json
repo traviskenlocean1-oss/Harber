@@ -1,0 +1,434 @@
+{
+  "_note": "Harbor Mind copy. 'prefix' matches the START of the reference string (whole value is replaced). html:true wraps the new text in <p>. Fictional practice for a portfolio demo; stats are real and cited (NIMH, WHO, CDC).",
+  "entries": [
+    {
+      "prefix": "Compass Pathways | Unlocking Pathways to Be",
+      "to": "Harbor Mind | Therapy & Counseling in Miami"
+    },
+    {
+      "prefix": "Every journey needs a Compass. Advancing new options",
+      "to": "Every mind needs a harbor. Harbor Mind offers individual, couples and family therapy in Miami and online, with evidence-based care and real warmth."
+    },
+    {
+      "prefix": "Who We Are",
+      "to": "About Us"
+    },
+    {
+      "prefix": "Our Purpose",
+      "to": "Our Approach"
+    },
+    {
+      "prefix": "Team",
+      "exact": true,
+      "to": "Our Therapists"
+    },
+    {
+      "prefix": "Join Us",
+      "to": "Careers"
+    },
+    {
+      "prefix": "News",
+      "exact": true,
+      "to": "Journal"
+    },
+    {
+      "prefix": "Our Work",
+      "to": "What We Treat"
+    },
+    {
+      "prefix": "Publications",
+      "to": "Resources"
+    },
+    {
+      "prefix": "Who We Serve",
+      "to": "Who We Help"
+    },
+    {
+      "prefix": "Patients & Caregivers",
+      "to": "Individuals & Couples"
+    },
+    {
+      "prefix": "Patients &amp; Caregivers",
+      "to": "Individuals &amp; Couples"
+    },
+    {
+      "prefix": "Healthcare Professionals",
+      "to": "Families & Teens"
+    },
+    {
+      "prefix": "Investors",
+      "exact": true,
+      "to": "Connect"
+    },
+    {
+      "prefix": "Stock Info",
+      "to": "Book a Consult"
+    },
+    {
+      "prefix": "Financials",
+      "to": "Insurance & Fees"
+    },
+    {
+      "prefix": "Governance",
+      "to": "Telehealth"
+    },
+    {
+      "prefix": "Stay Informed",
+      "to": "Contact"
+    },
+    {
+      "prefix": "Every journey",
+      "exact": true,
+      "to": "Every mind"
+    },
+    {
+      "prefix": "needs a",
+      "exact": true,
+      "to": "needs a"
+    },
+    {
+      "prefix": "We chart new pathways in mental health care toward finding clarity through self-discovery.",
+      "to": "We offer a safe harbor for anxious minds and heavy hearts, toward finding calm through self-discovery."
+    },
+    {
+      "prefix": "We chart new  pathways in mental  health care toward finding  clarity through  self-discovery.",
+      "to": "We offer a safe harbor  for anxious minds  and heavy hearts, toward finding  calm through  self-discovery."
+    },
+    {
+      "prefix": "Beyond the",
+      "exact": true,
+      "to": "Beyond the"
+    },
+    {
+      "prefix": "plateau",
+      "exact": true,
+      "to": "overwhelm"
+    },
+    {
+      "prefix": "The limits of current care leave millions",
+      "to": "Too many people spend years white-knuckling anxiety, grief and burnout alone, or bounce between care that never quite fits. Our approach is simple: real time with a licensed therapist, a plan built around you, and steady support until life feels lighter."
+    },
+    {
+      "prefix": "FIG 01 - THE SCALE",
+      "to": "FIG 01 - THE SCALE"
+    },
+    {
+      "prefix": "More than 1B people globally",
+      "to": "More than 1 in 5 U.S. adults"
+    },
+    {
+      "prefix": "are currently living with a mental health condition.",
+      "html": true,
+      "to": "live with a mental illness.<sup>1</sup> Only about half of them get any treatment."
+    },
+    {
+      "prefix": "FIG 02 - THE BURDEN",
+      "to": "FIG 02 - THE BURDEN"
+    },
+    {
+      "prefix": "The #2 leading cause",
+      "to": "A leading cause"
+    },
+    {
+      "prefix": "of a person’s years lived with disability",
+      "html": true,
+      "to": "of disability around the world is depression,<sup>2</sup> weighing on work, family and everyday life."
+    },
+    {
+      "prefix": "FIG 03 - THE URGENCY",
+      "to": "FIG 03 - THE URGENCY"
+    },
+    {
+      "prefix": "Every 43 seconds",
+      "to": "Every 11 minutes"
+    },
+    {
+      "prefix": "a life is lost to suicide",
+      "html": true,
+      "to": "a life is lost to suicide in the U.S.<sup>3</sup>—a reality that drives us to make help easier to reach, and sooner."
+    },
+    {
+      "prefix": "Topography",
+      "exact": true,
+      "to": "Contour lines"
+    },
+    {
+      "prefix": "Opening new dimensions of discovery",
+      "to": "Opening new paths to feeling like yourself"
+    },
+    {
+      "prefix": "Our science aims to unlock pathways",
+      "to": "Our therapists pair proven methods with real warmth, so you can work through what feels heavy and build a life that feels steadier."
+    },
+    {
+      "prefix": "See our work",
+      "to": "See our approach"
+    },
+    {
+      "prefix": "DRIVEN BY THE PEOPLE WE SERVE",
+      "to": "DRIVEN BY THE PEOPLE WE SERVE"
+    },
+    {
+      "prefix": "Our foundation is the patient",
+      "to": "Our foundation is the person in the room"
+    },
+    {
+      "prefix": "Compass was born from a personal quest",
+      "html": true,
+      "to": "Harbor Mind started with a simple belief: no one should have to wait months, or feel rushed, to get help. Every plan we build starts with listening to you."
+    },
+    {
+      "prefix": "THE MOST RIGOROUS SCIENTIFIC STANDARDS",
+      "to": "EVIDENCE-BASED, ALWAYS"
+    },
+    {
+      "prefix": "Unrelenting in our pursuit of science",
+      "to": "Methods that are proven to work"
+    },
+    {
+      "prefix": "We are doing things the right way, setting the standards",
+      "html": true,
+      "to": "We use approaches with decades of research behind them, including CBT, DBT skills, EMDR and Gottman-informed couples work, and we track progress with you along the way."
+    },
+    {
+      "prefix": "WORLD’S LARGEST CLASSIC PSYCHEDELIC CLINICAL PROGRAM",
+      "to": "IN PERSON IN MIAMI AND ONLINE"
+    },
+    {
+      "prefix": "WORLD'S LARGEST CLASSIC PSYCHEDELIC CLINICAL PROGRAM",
+      "to": "IN PERSON IN MIAMI AND ONLINE"
+    },
+    {
+      "prefix": "Advancing the evidence base",
+      "to": "Care that fits your week"
+    },
+    {
+      "prefix": "With more than 1,000 participants",
+      "html": true,
+      "to": "Meet in our calm Miami office or by secure video from home. Evening and weekend sessions are available, so therapy fits around your life instead of the other way around."
+    },
+    {
+      "prefix": "WHAT WE’RE DEVELOPING",
+      "to": "WHAT WE HELP WITH"
+    },
+    {
+      "prefix": "WHAT WE'RE DEVELOPING",
+      "to": "WHAT WE HELP WITH"
+    },
+    {
+      "prefix": "About our lead compound",
+      "to": "Where we can help"
+    },
+    {
+      "prefix": "COMP360, is a synthetic",
+      "html": true,
+      "to": "Anxiety, depression, trauma, grief, burnout, relationship strain, life transitions, and the challenges that come with parenting and the teen years."
+    },
+    {
+      "prefix": "We all have a why",
+      "to": "We all have a why"
+    },
+    {
+      "prefix": "We work here because we refuse to accept",
+      "html": true,
+      "to": "We do this work because we know how heavy it can feel to carry things alone. Every session starts with the same promise: you’ll be heard, you’ll be safe, and you won’t be rushed."
+    },
+    {
+      "prefix": "Hear more stories",
+      "to": "Meet our therapists"
+    },
+    {
+      "prefix": "Compass walks the talk.",
+      "clip": 0,
+      "to": "Harbor Mind practices what it preaches."
+    },
+    {
+      "prefix": "I've worked in the mental health space for over a decade",
+      "clip": 1,
+      "to": "I’ve been a therapist for over a decade, and the biggest thing I’ve learned is that people heal faster when they feel truly heard."
+    },
+    {
+      "prefix": "I've started telling people that for me",
+      "clip": 2,
+      "to": "I tell people that therapy isn’t about fixing you. It’s about giving you room to breathe."
+    },
+    {
+      "prefix": "I regularly think forward to the prospect",
+      "clip": 3,
+      "to": "I think about the moment a client realizes the weight they’ve carried for years is finally getting lighter."
+    },
+    {
+      "prefix": "What makes working at Compass different",
+      "clip": 4,
+      "to": "What makes Harbor Mind different is the balance between proven methods and real warmth."
+    },
+    {
+      "prefix": "If you want to be part of something big",
+      "clip": 5,
+      "to": "If you’re on the fence about reaching out, the first step is the hardest one, and you don’t have to take it alone."
+    },
+    {
+      "prefix": "Everyone here — and I mean everyone here",
+      "clip": 6,
+      "to": "Everyone here is on the same page about one thing: you come first."
+    },
+    {
+      "prefix": "I see the possibility of a world where mental illness",
+      "clip": 7,
+      "to": "I picture a world where asking for help is as normal as seeing a doctor for a cold."
+    },
+    {
+      "prefix": "At Compass, doing it right means",
+      "clip": 8,
+      "to": "At Harbor Mind, doing it right means honesty, consistency and respect."
+    },
+    {
+      "prefix": "What keeps me pushing forward is the people",
+      "clip": 9,
+      "to": "What keeps me going is the people who suffer quietly, believing they’re the problem."
+    },
+    {
+      "prefix": "Continue exploring",
+      "to": "Continue exploring"
+    },
+    {
+      "prefix": "Navigate to Our Purpose",
+      "to": "Navigate to Our Approach"
+    },
+    {
+      "prefix": "Navigate to Patients and Caregivers",
+      "to": "Navigate to Individuals and Couples"
+    },
+    {
+      "prefix": "Navigate to Patients & Caregivers",
+      "to": "Navigate to Individuals & Couples"
+    },
+    {
+      "prefix": "Navigate to Patients &amp; Caregivers",
+      "to": "Navigate to Individuals &amp; Couples"
+    },
+    {
+      "prefix": "Navigate to Healthcare Professionals",
+      "to": "Navigate to Families and Teens"
+    },
+    {
+      "prefix": "Navigate to Healthcare Professional",
+      "to": "Navigate to Families & Teens"
+    },
+    {
+      "prefix": "About Us",
+      "exact": true,
+      "to": "About Us"
+    },
+    {
+      "prefix": "Our Team",
+      "to": "Our Therapists"
+    },
+    {
+      "prefix": "Science & Research",
+      "to": "Care & Services"
+    },
+    {
+      "prefix": "Science &amp; Research",
+      "to": "Care &amp; Services"
+    },
+    {
+      "prefix": "Get Started",
+      "exact": true,
+      "to": "Get Started"
+    },
+    {
+      "prefix": "News & Events",
+      "to": "Journal"
+    },
+    {
+      "prefix": "News &amp; Events",
+      "to": "Journal"
+    },
+    {
+      "prefix": "© {YEAR} Compass Pathways. All rights reserved.",
+      "to": "© {YEAR} Harbor Mind. All rights reserved."
+    },
+    {
+      "prefix": "Youtube",
+      "exact": true,
+      "to": "Instagram"
+    },
+    {
+      "prefix": "Unlocking pathways to be",
+      "to": "A calmer place to land"
+    },
+    {
+      "prefix": "Unsolicited Information",
+      "to": "Accessibility"
+    },
+    {
+      "prefix": "Expanded Access",
+      "to": "Crisis Resources"
+    },
+    {
+      "prefix": "It looks like you're on the wrong path",
+      "to": "This page drifted off course"
+    },
+    {
+      "prefix": "1. “Mental Health: Strengthening Our Response.”",
+      "html": "raw",
+      "to": "<p>1. “Mental Illness.” National Institute of Mental Health. <a href=\"https://www.nimh.nih.gov/health/statistics/mental-illness\" target=\"_blank\" rel=\"noopener\">https://www.nimh.nih.gov/health/statistics/mental-illness</a></p><p>2. “Depressive disorder (depression).” World Health Organization. <a href=\"https://www.who.int/news-room/fact-sheets/detail/depression\" target=\"_blank\" rel=\"noopener\">https://www.who.int/news-room/fact-sheets/detail/depression</a></p><p>3. “Suicide Data and Statistics.” Centers for Disease Control and Prevention. <a href=\"https://www.cdc.gov/suicide/facts/data.html\" target=\"_blank\" rel=\"noopener\">https://www.cdc.gov/suicide/facts/data.html</a></p>"
+    }
+  ],
+  "clips": [
+    {
+      "voice": "Microsoft Zira Desktop",
+      "body": "Harbor Mind practices what it preaches. We take care of our own team the way we ask clients to take care of themselves, and that calm shows up in every session."
+    },
+    {
+      "voice": "Microsoft David Desktop",
+      "body": "I’ve been a therapist for over a decade, and the biggest thing I’ve learned is that people heal faster when they feel truly heard. That’s why our first session is about listening, not paperwork."
+    },
+    {
+      "voice": "Microsoft Zira Desktop",
+      "body": "I tell people that therapy isn’t about fixing you. It’s about giving you room to breathe. Most of my clients aren’t broken. They’re tired, they’re carrying too much, and nobody has given them a safe place to set it down."
+    },
+    {
+      "voice": "Microsoft David Desktop",
+      "body": "I think about the moment a client realizes the weight they’ve carried for years is finally getting lighter. Those moments are why I do this. I see them every week, and they never get old."
+    },
+    {
+      "voice": "Microsoft Zira Desktop",
+      "body": "What makes Harbor Mind different is the balance between proven methods and real warmth. We use approaches backed by research, but we never forget there’s a person, not a diagnosis, in the room."
+    },
+    {
+      "voice": "Microsoft David Desktop",
+      "body": "If you’re on the fence about reaching out, the first step is the hardest one, and you don’t have to take it alone. Send a message, ask your questions, and go at your own pace."
+    },
+    {
+      "voice": "Microsoft Zira Desktop",
+      "body": "Everyone here is on the same page about one thing: you come first. I haven’t worked anywhere else that takes that so seriously."
+    },
+    {
+      "voice": "Microsoft David Desktop",
+      "body": "I picture a world where asking for help is as normal as seeing a doctor for a cold. No one should be told to just push through. That’s the world we’re building, one session at a time."
+    },
+    {
+      "voice": "Microsoft Zira Desktop",
+      "body": "At Harbor Mind, doing it right means honesty, consistency and respect. We show up the same way every week, we’re honest about progress, and we always do what’s right for you, even when it takes longer."
+    },
+    {
+      "voice": "Microsoft David Desktop",
+      "body": "What keeps me going is the people who suffer quietly, believing they’re the problem. Often they’re not the problem at all. They just needed the right support, and helping them see that is the best part of my job."
+    }
+  ],
+  "mission": {
+    "afterWords": [
+      4,
+      7,
+      12,
+      14
+    ]
+  },
+  "hero": {
+    "top": "Every mind",
+    "mid": "needs a",
+    "bottom": "Harbor"
+  }
+}

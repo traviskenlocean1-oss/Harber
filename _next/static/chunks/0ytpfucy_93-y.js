@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,13114,e=>{"use strict";var t=e.i(43476),u=e.i(71645);e.s(["FocusOnMountHeading",0,function({className:e,children:c}){let n=(0,u.useRef)(null);return(0,u.useEffect)(()=>{n.current?.focus()},[]),(0,t.jsx)("h1",{ref:n,tabIndex:-1,className:e,children:c})}])}]);

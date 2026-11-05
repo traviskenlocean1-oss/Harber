@@ -1,0 +1,11 @@
+node_modules/
+.wrangler/
+# reference material: their HTML, CMS media, paid fonts and decoded data stay local only
+tools/src/
+tools/mirror/
+tools/ref-media/
+tools/payload.txt
+tools/strings.txt
+tools/requests.txt
+tools/media/wav/
+tools/node_modules/
