@@ -169,6 +169,9 @@ html = html.replace(/<html lang="[^"]*"/, '<html lang="en"');
 /* ── 4. SEO + favicon + site styles ──────────────────────── */
 const ld = { '@context': 'https://schema.org', '@type': 'MedicalBusiness', name: 'Harbor Mind', description: 'Therapy and counseling for individuals, couples and families in Miami, FL and online.', url: SITE + '/', image: SITE + '/media/og.jpg', logo: SITE + '/media/favicon.svg', medicalSpecialty: 'Psychiatric', areaServed: 'Miami, FL', address: { '@type': 'PostalAddress', addressLocality: 'Miami', addressRegion: 'FL', addressCountry: 'US' } };
 html = html.replace(/<link rel="icon"[^>]*>/g, '').replace(/<link rel="apple-touch-icon"[^>]*>/g, '');
+// their Tag Manager also ships inside the RSC data (inline loader + noscript iframe): neutralize everywhere
+html = html.split('https://www.googletagmanager.com/gtm.js?id=').join('data:text/javascript,//')
+  .split('https://www.googletagmanager.com/ns.html?id=').join('about:blank#').split('GTM-NMHGR8KX').join('');
 html = html.replace('</head>', `<link rel="icon" href="/media/favicon.svg" type="image/svg+xml"/>
 <meta name="theme-color" content="#2F5D73"/>
 <meta property="og:title" content="Harbor Mind | Therapy &amp; Counseling in Miami"/>
