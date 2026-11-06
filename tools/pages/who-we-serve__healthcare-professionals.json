@@ -1,0 +1,71 @@
+{
+  "_note": "Families & Teens (their Healthcare Professionals). Stats: NIMH major-depression + mental-illness pages (read 2026-11-05). Directory: free support lines (links checked 200).",
+  "entries": [
+    { "prefix": "Healthcare Professionals | Compass", "to": "Family & Teen Therapy in Miami | Harbor Mind" },
+    { "prefix": "New options for your hardest-to-treat patients.", "to": "Family and teen therapy in Miami and online. Support for anxiety, depression, school stress and family conflict, for ages 13 to 19 and their parents." },
+    { "prefix": "Compass Pathways is grounding classic psychedelic treatment", "to": "Therapy for teens and families in Miami and online, with licensed therapists who involve parents in the plan." },
+    { "prefix": "Compass Pathways Clinical Research Program", "to": "Harbor Mind family and teen therapy" },
+    { "prefix": "We recognize the impact of chronic conditions on patients", "to": "When one person is struggling, the whole family feels it. We help families and teens find their way back to each other." },
+    { "prefix": "Overcoming the status quo", "to": "Support for the whole family" },
+    { "prefix": "Information found on this page is intended for US residents only.", "to": "Teen sessions are available for ages 13 to 19, in person in Miami or online across Florida." },
+    { "prefix": "Treatment-resistant depression (TRD)", "to": "Teen anxiety and depression" },
+    { "prefix": "When a patient is diagnosed with TRD", "html": true, "to": "School pressure, social media, friendships and big changes can leave teens anxious, withdrawn or irritable. We give teens a private space to talk, teach practical coping skills, and keep parents in the loop in a way that protects trust." },
+    { "prefix": "Post-traumatic stress disorder (PTSD)", "to": "Family conflict" },
+    { "prefix": "PTSD is a condition that may occur in people who have experienced traumatic events,", "html": true, "to": "Constant arguments, divorce, blended families or a hard loss can leave everyone on edge. Family sessions help each person feel heard, lower the temperature at home, and build new ways of talking that actually stick." },
+    { "prefix": "Quantifying the clinical necessity for change.", "to": "Why early support matters" },
+    { "prefix": "This status quo is unacceptable to us", "to": "Teens and families face real pressure, and many people who need care still don’t get it. We’re working to make help easier to reach in Miami." },
+    { "prefix": "$$282B", "exact": true, "to": "20.1%" },
+    { "prefix": "$282B", "exact": true, "to": "20.1%" },
+    { "prefix": "is the annual economic cost of mental illness in the US.", "html": true, "to": "of U.S. teens aged 12 to 17 had a major depressive episode in 2021.<sup>1</sup>" },
+    { "prefix": "~50%", "exact": true, "to": "29.2%" },
+    { "prefix": "of the 61.5M US adults with a mental illness did not receive treatment", "html": true, "to": "of teen girls had a major depressive episode, compared with 11.5% of teen boys.<sup>1</sup>" },
+    { "prefix": "1 in 2", "exact": true, "to": "40.6%" },
+    { "prefix": "is the estimated number of US adult patients with a mental illness who don", "html": true, "to": "of teens with a major depressive episode received treatment in the past year.<sup>1</sup>" },
+    { "prefix": "93%", "exact": true, "to": "50.6%" },
+    { "prefix": "of behavioral health workers say they've experienced burnout.", "html": true, "to": "of U.S. adults with a mental illness received treatment in 2022.<sup>2</sup>" },
+    { "prefix": "Compass Redefine PTSD study", "to": "Free 15-minute consult" },
+    { "prefix": "We encourage you to visit redefineptsdstudy.com", "to": "Not sure if your teen needs therapy? Book a free call and talk it through with one of our family therapists." },
+    { "prefix": "View Redefine", "to": "Book a consult" },
+    { "prefix": "Compass has awarded grants to five qualified organizations", "to": "Free support lines and services for families, many available around the clock." },
+    { "prefix": "CME Outfitters", "to": "988 Suicide & Crisis Lifeline" },
+    { "prefix": "Jointly accredited medical education expertise", "to": "Call or text 988, any time, day or night" },
+    { "prefix": "Emory University", "to": "Crisis Text Line" },
+    { "prefix": "University-based medical education and clinical training", "to": "Text HOME to 741741 to reach a trained crisis counselor" },
+    { "prefix": "Fluence", "exact": true, "to": "The Trevor Project" },
+    { "prefix": "Established psychedelic education and training", "to": "Crisis support for LGBTQ+ young people, any time" },
+    { "prefix": "Integrative Psychiatry Institute", "to": "NAMI Miami-Dade" },
+    { "prefix": "Comprehensive psychedelic education and training", "to": "Free family education and support groups in Miami-Dade" },
+    { "prefix": "Strata Mental Health Solutions", "to": "211" },
+    { "prefix": "Clinical trial informed support provider training", "to": "Connects families with local help, from food to counseling" },
+    { "prefix": "Compass training documents", "to": "Free parent guide" },
+    { "prefix": "Separate guidance documents for US-based organizations", "to": "Want our short guide to talking with your teen about mental health? Email us at hello@harbormindtherapy.com and we’ll send it over." },
+    { "prefix": "Mail to USMedInfo", "to": "Email us" },
+    { "prefix": "Navigate to Publications", "to": "Navigate to Resources" },
+    { "prefix": "Navigate to Our Work", "to": "Navigate to What We Treat" },
+    { "prefix": "Physician", "exact": true, "to": "Family" }
+  ],
+  "links": {
+    "https://www.cmeoutfitters.com/ ": "https://988lifeline.org/",
+    "https://www.cmeoutfitters.com/": "https://988lifeline.org/",
+    "https://med.emory.edu/": "https://www.crisistextline.org/",
+    "https://www.fluencetraining.com/": "https://www.thetrevorproject.org/",
+    "https://psychiatryinstitute.com/ ": "https://namimiami.org/",
+    "https://psychiatryinstitute.com/": "https://namimiami.org/",
+    "https://www.stratamentalhealth.com/": "https://www.211.org/",
+    "https://redefineptsdstudy.com/": "/contact-us"
+  },
+  "blocks": [
+    {
+      "start": "<p>We prioritize trust through action.",
+      "html": "<p>Families come to us for all kinds of reasons: a teen who has pulled away, constant tension at home, a divorce, a move, or a loss that everyone is grieving differently. Whatever brought you here, you don’t have to figure it out alone.</p><p>For teens, we offer a private, judgment-free space to talk, alongside practical skills for anxiety, low mood and stress. Parents are part of the plan too, with regular check-ins that keep you informed while protecting your teen’s trust.</p><p>Family sessions bring everyone into the room, so each person can be heard and the whole household can practice new ways of talking and solving problems together.</p><p>We don’t promise quick fixes. We promise to listen, use approaches that are proven to help, and stay with your family until home feels steadier.</p>"
+    },
+    {
+      "start": "<p>1. “Association of Treatment-Resistant Depression",
+      "html": "<p>1. “Major Depression.” National Institute of Mental Health. <a href=\"https://www.nimh.nih.gov/health/statistics/major-depression\" target=\"_blank\" rel=\"noopener\">https://www.nimh.nih.gov/health/statistics/major-depression</a></p><p>2. “Mental Illness.” National Institute of Mental Health. <a href=\"https://www.nimh.nih.gov/health/statistics/mental-illness\" target=\"_blank\" rel=\"noopener\">https://www.nimh.nih.gov/health/statistics/mental-illness</a></p><p>Information about independent organizations is provided as an additional resource. It does not indicate endorsement by Harbor Mind of an organization or its communications. If you or someone you love is in danger, call 911.</p><p>All trademarks, brand names, and logos are property of their respective owners.</p>"
+    },
+    {
+      "start": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\"",
+      "html": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"name\":\"Families & Teens — Harbor Mind\",\"url\":\"https://harber.traviskenlocean1.workers.dev/who-we-serve/healthcare-professionals\",\"description\":\"Family and teen therapy in Miami and online.\",\"about\":{\"@type\":\"MedicalBusiness\",\"name\":\"Harbor Mind\",\"areaServed\":\"Miami, FL\"}}"
+    }
+  ]
+}

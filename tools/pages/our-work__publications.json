@@ -1,0 +1,45 @@
+{
+  "_note": "Resources (their Publications). Every link is a real, free public-health page (checked 200 on 2026-11-05); titles describe each page plainly.",
+  "entries": [
+    { "prefix": "Publications | Compass", "to": "Resources | Trusted Mental Health Reading | Harbor Mind" },
+    { "prefix": "Peer-reviewed papers providing the body of evidence behind the Compass", "to": "Free, trusted reading on anxiety, depression, trauma, relationships and therapy itself, hand-picked by the Harbor Mind team." },
+    { "prefix": "Peer-reviewed papers providing the body of evidence behind our clinical", "to": "Trusted, free guides on anxiety, depression, trauma, relationships and therapy, chosen by our therapists." },
+    { "prefix": "Read the peer-reviewed papers providing the body of evidence", "to": "Clear, trustworthy reading our therapists recommend to clients and families, all free and from public health organizations." },
+    { "prefix": "Review the research", "to": "Recommended reading" },
+    { "prefix": "Use the dropdown menu below to sort by relevant categories.", "to": "Use the menu below to filter by topic. Each link opens a free guide from a trusted public health organization." },
+    { "prefix": "Compass Redefine PTSD study", "to": "Free 15-minute consult" },
+    { "prefix": "We encourage you to visit redefineptsdstudy.com", "to": "Reading helps, and so does talking it through. Book a free call to find the right therapist for you." },
+    { "prefix": "View Redefine", "to": "Book a consult" },
+    { "prefix": "Select Category", "to": "Select Topic" }
+  ],
+  "links": {
+    "https://redefineptsdstudy.com/": "/contact-us"
+  },
+  "arrays": [
+    {
+      "key": "entries",
+      "startsWith": "{\"date\":\"01 Aug 2026\"",
+      "value": [
+        { "date": "01 Aug 2026", "source": "National Institute of Mental Health", "category": "Anxiety & Depression", "title": "Anxiety disorders: signs, symptoms and how they are treated.", "cta": { "label": "Read article", "href": "https://www.nimh.nih.gov/health/topics/anxiety-disorders", "isExternal": true } },
+        { "date": "27 Jul 2026", "source": "National Institute of Mental Health", "category": "Anxiety & Depression", "title": "Depression: what it is, common signs, and treatment options.", "cta": { "label": "Read article", "href": "https://www.nimh.nih.gov/health/topics/depression", "isExternal": true } },
+        { "date": "16 Jul 2026", "source": "National Institute of Mental Health", "category": "Trauma", "title": "Post-traumatic stress disorder: an overview of symptoms, risk factors and treatment.", "cta": { "label": "Read article", "href": "https://www.nimh.nih.gov/health/topics/post-traumatic-stress-disorder-ptsd", "isExternal": true } },
+        { "date": "10 Jul 2026", "source": "National Institute of Mental Health", "category": "Getting Started", "title": "Psychotherapies: the main types of talk therapy, explained.", "cta": { "label": "Read article", "href": "https://www.nimh.nih.gov/health/topics/psychotherapies", "isExternal": true } },
+        { "date": "29 Aug 2025", "source": "American Psychological Association", "category": "Getting Started", "title": "Understanding psychotherapy and how it works.", "cta": { "label": "Read article", "href": "https://www.apa.org/topics/psychotherapy/understanding", "isExternal": true } },
+        { "date": "03 Mar 2025", "source": "American Psychological Association", "category": "Getting Started", "title": "Different approaches to psychotherapy.", "cta": { "label": "Read article", "href": "https://www.apa.org/topics/psychotherapy/approaches", "isExternal": true } },
+        { "date": "01 Mar 2025", "source": "National Institute of Mental Health", "category": "Getting Started", "title": "Caring for your mental health: everyday habits that help.", "cta": { "label": "Read article", "href": "https://www.nimh.nih.gov/health/topics/caring-for-your-mental-health", "isExternal": true } },
+        { "date": "05 Dec 2025", "source": "U.S. Department of Veterans Affairs", "category": "Trauma", "title": "How common is PTSD in adults?", "cta": { "label": "Read article", "href": "https://www.ptsd.va.gov/understand/common/common_adults.asp", "isExternal": true } },
+        { "date": "14 Aug 2024", "source": "National Institute of Mental Health", "category": "Relationships & Families", "title": "Child and adolescent mental health: warning signs and how to get help.", "cta": { "label": "Read article", "href": "https://www.nimh.nih.gov/health/topics/child-and-adolescent-mental-health", "isExternal": true } },
+        { "date": "10 Jan 2024", "source": "MedlinePlus", "category": "Relationships & Families", "title": "Teen mental health: a guide for teens and parents.", "cta": { "label": "Read article", "href": "https://medlineplus.gov/teenmentalhealth.html", "isExternal": true } },
+        { "date": "04 Sep 2023", "source": "American Psychological Association", "category": "Relationships & Families", "title": "Marriage and relationships: research on what helps couples thrive.", "cta": { "label": "Read article", "href": "https://www.apa.org/topics/marriage-relationships", "isExternal": true } },
+        { "date": "14 Apr 2023", "source": "American Psychological Association", "category": "Anxiety & Depression", "title": "Stress: how it affects your body and mind.", "cta": { "label": "Read article", "href": "https://www.apa.org/topics/stress", "isExternal": true } },
+        { "date": "03 Nov 2022", "source": "MedlinePlus", "category": "Anxiety & Depression", "title": "Mental health: a plain-language guide from the National Library of Medicine.", "cta": { "label": "Read article", "href": "https://medlineplus.gov/mentalhealth.html", "isExternal": true } }
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "start": "{\"@context\":\"https://schema.org\",\"@type\":\"CollectionPage\"",
+      "html": "{\"@context\":\"https://schema.org\",\"@type\":\"CollectionPage\",\"name\":\"Resources — Harbor Mind\",\"url\":\"https://harber.traviskenlocean1.workers.dev/our-work/publications\",\"description\":\"Free, trusted reading on anxiety, depression, trauma, relationships and therapy, chosen by Harbor Mind therapists.\",\"publisher\":{\"@type\":\"MedicalBusiness\",\"name\":\"Harbor Mind\"}}"
+    }
+  ]
+}

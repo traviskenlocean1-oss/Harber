@@ -1,0 +1,33 @@
+{
+  "_note": "Our Approach (their Our Purpose).",
+  "entries": [
+    { "prefix": "Our Purpose | Compass", "to": "Our Approach | Harbor Mind Therapy in Miami" },
+    { "prefix": "Compass Pathways is driven by an unwavering commitment", "to": "How Harbor Mind works: licensed therapists, proven methods like CBT, EMDR and Gottman-informed couples work, and plans built around your goals." },
+    { "prefix": "Finders inspired by seekers.", "to": "Listen closely, use methods that work, and stay with you until life feels lighter. That’s the Harbor Mind approach." },
+    { "prefix": "We're driven by our purpose to unlock pathways", "to": "Our approach is simple: listen closely, use methods that work, and stay with you until life feels lighter." },
+    { "prefix": "We are finders, inspired by seekers.", "html": "raw", "to": "<p>We are listeners, guided by your story.</p><p>Our work is dedicated to individuals, couples and families.</p><p>Your courage brings you here. Your resilience guides the work. Your goals shape every plan.</p><p>We open space for honest conversation.</p><p>Not a fresh start from nothing, but a steadier way forward.</p><p>Because every mind needs a harbor.</p>" },
+    { "prefix": "Unlocking pathways  to be", "exact": true, "to": "A calmer place  to land" },
+    { "prefix": "Our Purpose | Video Feature", "to": "Our Approach | Video Feature" },
+    { "prefix": "More than a medicine", "to": "More than a session" },
+    { "prefix": "Our pillars of commitment ensure", "to": "Three commitments shape every plan we build, so the support you get is personal, proven and safe." },
+    { "prefix": "We believe it's important that the standards", "html": true, "to": "We believe the care you receive should match how much it took to reach out. That means seeing the same licensed therapist every week, setting goals you choose, and checking progress together instead of guessing. If something isn’t working, we change it." },
+    { "prefix": "We are committed, above all else, to people seeking", "html": true, "to": "Above all, we’re committed to the people who walk through our door, or log on from home. Whether you come alone or with a partner, your goals set the direction and your comfort sets the pace." },
+    { "prefix": "WHAT'S POSSIBLE FOR PATIENTS", "to": "SEE HOW WE HELP" },
+    { "prefix": "Rigorous Science", "to": "Proven Methods" },
+    { "prefix": "Our commitment to scientific rigor guides everything", "html": true, "to": "We use approaches with strong research behind them, including CBT, DBT skills, EMDR, ACT and Gottman-informed couples therapy. Your therapist explains why a method fits you, and you can always ask to try something different." },
+    { "prefix": "EXPLORE THE WORK WE'RE DOING", "to": "EXPLORE WHAT WE TREAT" },
+    { "prefix": "Animal Welfare", "to": "Your First Session" },
+    { "prefix": "Download our animal welfare policy", "html": true, "to": "Download our short guide to what happens in a first session, what to bring, and how to tell if a therapist is the right fit." },
+    { "prefix": "2026 Animal Welfare Policy.pdf", "to": "First Session Guide.pdf" },
+    { "prefix": "Navigate to Who We Are", "to": "Navigate to About Us" },
+    { "prefix": "Navigate to Who We Serve", "to": "Navigate to Who We Help" },
+    { "prefix": "“Many of us have immediate family members", "to": "“Most people who call us have been carrying something alone for far too long. Our job is simple: make the first step feel safe, and make sure no one has to take the next ones alone.”" },
+    { "prefix": "Kabir Nath, Chief Executive Officer", "to": "Dr. Elena Marquez, Founder & Clinical Director" }
+  ],
+  "blocks": [
+    {
+      "start": "{\"@context\":\"https://schema.org\",\"@type\":\"AboutPage\"",
+      "html": "{\"@context\":\"https://schema.org\",\"@type\":\"AboutPage\",\"name\":\"Our Approach — Harbor Mind\",\"url\":\"https://harber.traviskenlocean1.workers.dev/who-we-are/our-purpose\",\"description\":\"How Harbor Mind works: licensed therapists, proven methods and plans built around your goals, in Miami and online.\",\"about\":[\"Psychotherapy\",\"Cognitive behavioral therapy\",\"Couples therapy\",\"EMDR\"],\"mainEntity\":{\"@type\":\"MedicalBusiness\",\"name\":\"Harbor Mind\",\"areaServed\":\"Miami, FL\"}}"
+    }
+  ]
+}

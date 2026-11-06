@@ -1,0 +1,31 @@
+{
+  "_note": "Privacy Policy for the fictional Harbor Mind practice (demo). Sidebar TOC array matches the h2/h3 ids in the body block.",
+  "entries": [
+    { "prefix": "Privacy Policy | Compass", "to": "Privacy Policy | Harbor Mind" },
+    { "prefix": "Review Compass Pathways' privacy policy", "to": "How Harbor Mind collects, uses and protects your information on our website and in care, including health information, telehealth and teen privacy." },
+    { "prefix": "Privacy & Data Protection", "to": "Your Privacy" },
+    { "prefix": "Privacy &amp; Data Protection", "to": "Your Privacy" }
+  ],
+  "arrays": [
+    {
+      "key": "items",
+      "startsWith": "{\"id\":\"S2-privacy-data-protection\"",
+      "value": [
+        { "id": "S2-your-privacy", "level": "h2", "text": "Your Privacy" },
+        { "id": "S2-website-enquiries", "level": "h2", "text": "Website & Enquiries" },
+        { "id": "S2-clients", "level": "h2", "text": "Clients" },
+        { "id": "S2-health-information", "level": "h3", "text": "Health Information" },
+        { "id": "S2-telehealth", "level": "h3", "text": "Telehealth Sessions" },
+        { "id": "S2-teens-families", "level": "h2", "text": "Teens & Families" },
+        { "id": "S2-minors", "level": "h3", "text": "Clients Under 18" },
+        { "id": "S2-contact-changes", "level": "h2", "text": "Contact & Changes" }
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "start": "<h2 id=\"S2-privacy-data-protection\"",
+      "html": "<h2 id=\"S2-your-privacy\" data-toc-heading>Your Privacy</h2><p>This policy explains what personal information Harbor Mind collects, how we use it, and the choices you have. We’ve tried to keep it in plain English.</p><p>Your privacy matters to us. Therapy only works when you feel safe, and that starts with knowing your information is handled with care.</p><p>If you have questions about this policy or want to make a request about your information, email us at <a href=\"mailto:privacy@harbormindtherapy.com\" target=\"_self\">privacy@harbormindtherapy.com</a>.</p><h2 id=\"S2-website-enquiries\" data-toc-heading>Website &amp; Enquiries</h2><h4 id=\"S2-who-we-are\">Who we are</h4><p>Harbor Mind is a therapy and counseling practice in Miami, Florida (“we,” “us” or “our”). We are responsible for the personal information described in this policy.</p><p>This policy was last updated on 1 November 2026.</p><h4 id=\"S2-what-we-collect\">What we collect</h4><p>When you call, email or use our website, we may collect your name, contact details, the reason you’re reaching out, and basic technical information such as your browser type and the pages you visit.</p><p>Please don’t send detailed health information by email or through our website. Your therapist will gather what’s needed in a secure setting.</p><h4 id=\"S2-how-we-use-it\">How we use it</h4><p>We use this information to reply to you, schedule a consult, match you with a therapist, and improve our website. We do not sell your personal information, and we never use it for advertising by other companies.</p><h4 id=\"S2-sharing\">Do we share it?</h4><p>We share information only with trusted service providers who help us run the practice, such as our scheduling and secure messaging systems, and only as needed for them to do that work. They must protect your information and may not use it for anything else.</p><h4 id=\"S2-retention\">How long we keep it</h4><p>Enquiries that don’t lead to care are deleted within 12 months. Client records are kept for the period required by Florida law.</p><h4 id=\"S2-your-choices\">Your choices</h4><p>You can ask to see, correct or delete the personal information we hold about you from website enquiries. Just email us and we’ll respond within 30 days.</p><h2 id=\"S2-clients\" data-toc-heading>Clients</h2><h3 id=\"S2-health-information\" data-toc-heading>Health Information</h3><p>Once you become a client, your health information is protected by federal law (HIPAA) and Florida law. You’ll receive our Notice of Privacy Practices before your first session, which explains in detail how your records are used and your rights to access them.</p><p>What you share in therapy stays confidential. There are a small number of legal exceptions, such as a serious risk of harm to yourself or others or suspected abuse of a child or vulnerable adult. Your therapist will explain these at the start of care.</p><h3 id=\"S2-telehealth\" data-toc-heading>Telehealth Sessions</h3><p>Online sessions use a secure, HIPAA-compliant video platform. Sessions are never recorded. We ask that you join from a private space where you won’t be overheard.</p><h2 id=\"S2-teens-families\" data-toc-heading>Teens &amp; Families</h2><h3 id=\"S2-minors\" data-toc-heading>Clients Under 18</h3><p>For clients under 18, a parent or guardian provides consent for care. To build trust, we keep the details of what a teen shares private, while giving parents regular updates on progress and attendance. We will always involve parents if there is a safety concern.</p><p>Our website is not directed to children, and we do not knowingly collect personal information online from anyone under 13.</p><h2 id=\"S2-contact-changes\" data-toc-heading>Contact &amp; Changes</h2><p>We may update this policy from time to time. When we do, we’ll change the date at the top of this page.</p><p>Questions or requests? Email <a href=\"mailto:privacy@harbormindtherapy.com\" target=\"_self\">privacy@harbormindtherapy.com</a> or call <a href=\"tel:+13055550142\" target=\"_self\">(305) 555-0142</a>.</p>"
+    }
+  ]
+}

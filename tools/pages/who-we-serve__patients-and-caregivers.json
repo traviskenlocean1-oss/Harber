@@ -1,0 +1,78 @@
+{
+  "_note": "Individuals & Couples (their Patients & Caregivers). Clips 0-9 -> story-1..10.mp3: therapists describing what clients often feel (no client testimonials). Stat cited: NIMH.",
+  "entries": [
+    { "prefix": "Patients & Caregivers | Compass", "to": "Individual & Couples Therapy in Miami | Harbor Mind" },
+    { "prefix": "Patients &amp; Caregivers | Compass", "to": "Individual &amp; Couples Therapy in Miami | Harbor Mind" },
+    { "prefix": "Your treatments failed you—not the other way around. Advancing", "to": "Individual and couples therapy in Miami and online for anxiety, depression, burnout and relationship strain, with a licensed therapist who stays with you." },
+    { "prefix": "Compass Pathways is advancing new options for patients", "to": "Therapy for individuals and couples in Miami and online, with licensed therapists, proven methods and same-week consults." },
+    { "prefix": "Compass Pathways Clinical Research Program", "to": "Harbor Mind individual and couples therapy" },
+    { "prefix": "You're seeking answers to the conditions that weigh life down.", "to": "You’re carrying more than anyone can see. We’ll help you set some of it down." },
+    { "prefix": "Your treatments failed you—not the other way around", "to": "Needing support doesn’t mean you’ve failed" },
+    { "prefix": "Your strength is why we’re here.", "html": true, "to": "Reaching out takes real courage. We know how exhausting it is to keep pushing through on your own, or to keep having the same fight with someone you love. Harbor Mind was built so that getting help feels simple: a quick first call, a therapist matched to your needs, and a plan that makes sense to you.</p><p>Online sessions are available to anyone located in Florida." },
+    { "prefix": "The Unseen Impact of TRD", "to": "Tools you can use today" },
+    { "prefix": "TRD Patient & Caregiver Survey", "to": "Free guides from our therapists" },
+    { "prefix": "TRD Patient &amp; Caregiver Survey", "to": "Free guides from our therapists" },
+    { "prefix": "Discover findings from a national survey", "html": true, "to": "Download our short anxiety toolkit with practical exercises for racing thoughts and poor sleep, plus a pocket-size grounding card to keep on your phone for hard moments." },
+    { "prefix": "2026 TRD Survey Report.pdf", "to": "Anxiety Toolkit.pdf" },
+    { "prefix": "2026 TRD Survey Infographic.pdf", "to": "Grounding Card.pdf" },
+    { "prefix": "Information about independent organizations is provided", "to": "Information about independent organizations is provided as an additional resource. It does not indicate endorsement by Harbor Mind of an organization or its communications. Your care team is your best source of personal guidance.\n\nAll trademarks, brand names, and logos are property of their respective owners." },
+    { "prefix": "Discover more useful resources and tools for those living with mental health", "to": "More trusted support for individuals, couples and families" },
+    { "prefix": "Access helpful tools and community support", "to": "Free mental health screening tools and community support" },
+    { "prefix": "Review professional standards for clinical care", "to": "Learn how psychotherapy works and what to expect" },
+    { "prefix": "Find peer-led resources for TRD", "to": "Peer-led support groups for depression and bipolar disorder" },
+    { "prefix": "Explore advocacy and education for families", "to": "Education and support for individuals and families" },
+    { "prefix": "Your search for a different option is our reason for existing", "to": "Therapy that fits your life, not the other way around" },
+    { "prefix": "Conditions we're focused on", "to": "What we help with most" },
+    { "prefix": "Treatment-resistant depression (TRD)", "to": "Anxiety and burnout" },
+    { "prefix": "When you are diagnosed with TRD, it means", "html": true, "to": "If your mind won’t switch off, your sleep is suffering, or work has worn you down to empty, you’re far from alone. An estimated 19.1% of U.S. adults had an anxiety disorder in the past year.¹ CBT and practical skills can quiet the worry loop and help you feel steady again." },
+    { "prefix": "Post-traumatic Stress disorder (PTSD)", "to": "Relationship strain" },
+    { "prefix": "Whether your story is of combat or assault", "html": true, "to": "Whether you keep having the same argument, feel more like roommates than partners, or are working through trust after a hard season, couples therapy gives you both a safe place to be heard and practical tools to reconnect." },
+    { "prefix": "Navigate to Who We Are", "to": "Navigate to About Us" },
+    { "prefix": "1. “Association of Treatment-Resistant Depression", "html": "raw", "to": "<p>1. “Any Anxiety Disorder.” National Institute of Mental Health. <a href=\"https://www.nimh.nih.gov/health/statistics/any-anxiety-disorder\" target=\"_blank\" rel=\"noopener\">https://www.nimh.nih.gov/health/statistics/any-anxiety-disorder</a></p>" },
+    { "prefix": "See our clinical trials", "to": "Start with a free consult" },
+    { "prefix": "We encourage you to visit clinicaltrials.gov", "to": "Book a free 15-minute call to ask questions and find the right therapist for you." },
+    { "prefix": "Go to clinicaltrials.gov", "to": "Book a consult" },
+    { "prefix": "Hear stories like yours from our own team members", "to": "Hear from our therapists about what clients often feel" },
+    { "prefix": "Listen to people here at Compass who have been where you are", "html": true, "to": "Our therapists share the feelings people bring to their first sessions, and what they’d want you to know. No client stories are shared here." },
+    { "prefix": "Patient", "exact": true, "to": "Individual" },
+    { "prefix": "Caregiver", "exact": true, "to": "Couple" },
+
+    { "prefix": "The sense that life moves forward in one piece", "clip": 0, "to": "So many people tell me they feel stuck between who they were and who they are now." },
+    { "prefix": "I wish I could tell my earlier self that life is going to feel very different", "clip": 1, "to": "If you’re waiting until things are bad enough to reach out, you don’t have to wait." },
+    { "prefix": "\"I wish I could tell my earlier self that life is going to feel very different", "clip": 1, "html": true, "to": "If you’re waiting until things are bad enough to reach out, you don’t have to wait." },
+    { "prefix": "What would it mean to see the person I care for get their life back?", "clip": 2, "to": "Couples often come in thinking they’ve already lost each other. Usually, they haven’t." },
+    { "prefix": "No one prepares you for how all-consuming it is to be a caregiver.", "clip": 3, "to": "No one prepares you for how much stress a relationship can quietly absorb." },
+    { "prefix": "This isn't talked about enough, but as a caregiver", "clip": 4, "to": "This isn’t talked about enough, but burnout can look a lot like depression." },
+    { "prefix": "It honestly brings me to tears thinking about", "clip": 5, "to": "It still moves me when a client realizes the anxiety isn’t who they are." },
+    { "prefix": "The part no one prepares you for about caregiving", "clip": 6, "to": "The part people don’t expect is how much lighter they feel after just saying it out loud." },
+    { "prefix": "If I could say one thing to my earlier self, it would be this", "clip": 7, "to": "If I could say one thing to someone on the fence, it would be this." },
+    { "prefix": "As a caregiver, when is the last time I felt like myself", "clip": 8, "to": "A question I ask a lot: when is the last time you felt like yourself?" },
+    { "prefix": "To see the person I care for get their life back would be a gift", "clip": 9, "to": "Watching a couple laugh together again in session is one of the best parts of my job." }
+  ],
+  "clips": [
+    { "voice": "Microsoft Zira Desktop", "body": "So many people tell me they feel stuck between who they were and who they are now. A hard year, a loss, a breakup, and suddenly life feels split in two. Therapy is a place to connect those pieces again, at a pace that feels safe." },
+    { "voice": "Microsoft David Desktop", "body": "If you’re waiting until things are bad enough to reach out, you don’t have to wait. Most of the people I see wish they’d come in sooner. You don’t need a crisis to deserve support. Feeling stuck, tired or not like yourself is reason enough." },
+    { "voice": "Microsoft Zira Desktop", "body": "Couples often come in thinking they’ve already lost each other. Usually, they haven’t. They’ve just lost the way they used to talk. When each person finally feels heard, the whole room changes." },
+    { "voice": "Microsoft David Desktop", "body": "No one prepares you for how much stress a relationship can quietly absorb. Work, money, kids, family. It piles up, and partners start taking it out on each other without meaning to. Naming that together is often the first big relief." },
+    { "voice": "Microsoft Zira Desktop", "body": "This isn’t talked about enough, but burnout can look a lot like depression. Exhaustion, numbness, losing interest in things you used to love. The good news is that both respond really well to the right support." },
+    { "voice": "Microsoft David Desktop", "body": "It still moves me when a client realizes the anxiety isn’t who they are. It’s something happening to them, and something they can learn to manage. That shift is where real change starts." },
+    { "voice": "Microsoft Zira Desktop", "body": "The part people don’t expect is how much lighter they feel after just saying it out loud. Things that have been circling in your head for months often shrink once they’re shared with someone who listens without judging." },
+    { "voice": "Microsoft David Desktop", "body": "If I could say one thing to someone on the fence, it would be this: you won’t be judged, you won’t be rushed, and you’re allowed to start small. One conversation is enough for now." },
+    { "voice": "Microsoft Zira Desktop", "body": "A question I ask a lot: when is the last time you felt like yourself? For many people the answer is a long time ago. Together we work on getting back to that person, step by step." },
+    { "voice": "Microsoft David Desktop", "body": "Watching a couple laugh together again in session is one of the best parts of my job. It reminds me that connection can come back, even after a really hard stretch." }
+  ],
+  "links": {
+    "https://clinicaltrials.gov/search?intr=COMP360&viewType=Card": "/contact-us",
+    "https://clinicaltrials.gov/search?intr=COMP360&amp;viewType=Card": "/contact-us"
+  },
+  "blocks": [
+    {
+      "start": "<p>For decades, millions like you",
+      "html": "<p>Too many people spend years white-knuckling anxiety, grief or relationship stress on their own, or bounce between short visits that never get to the root of things. You deserve more time, more continuity and a therapist who actually knows your story.</p><p>That’s why every Harbor Mind client sees the same licensed therapist each week, sets goals in their own words, and checks progress along the way. For couples, both partners get equal space to be heard, and sessions focus on practical tools you can use at home the same night.</p><p>Whether you’re coming alone or together, we’ll go at your pace, and we’ll be honest about what’s working. Everything we do is built around helping you feel like yourself again.</p>"
+    },
+    {
+      "start": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\"",
+      "html": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"name\":\"Individuals & Couples — Harbor Mind\",\"url\":\"https://harber.traviskenlocean1.workers.dev/who-we-serve/patients-and-caregivers\",\"description\":\"Individual and couples therapy in Miami and online.\",\"about\":{\"@type\":\"MedicalBusiness\",\"name\":\"Harbor Mind\",\"areaServed\":\"Miami, FL\"}}"
+    }
+  ]
+}

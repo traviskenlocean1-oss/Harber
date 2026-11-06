@@ -1,0 +1,35 @@
+{
+  "_note": "Who We Help (their Who We Serve). The six quotes are common feelings written by us, framed as things people often say, not attributed client testimonials.",
+  "afterWords": [4, 8, 11, 15, 19, 22],
+  "entries": [
+    { "prefix": "Who We Serve | Compass", "to": "Who We Help | Individual, Couples & Family Therapy in Miami" },
+    { "prefix": "Compass Pathways exists for patients, caregivers, clinicians, and providers seeking new possibilities in mental health care. Find", "to": "Harbor Mind helps individuals, couples, families and teens in Miami and online. Find the kind of support that fits you." },
+    { "prefix": "Compass Pathways exists for patients, caregivers, clinicians, and providers", "to": "Therapy for individuals, couples, families and teens in Miami and online." },
+    { "prefix": "We’re guided by the needs of the patients, caregivers", "to": "Whether you’re coming on your own, as a couple or as a family, we’ll meet you where you are." },
+    { "prefix": "Our work begins with the  people we serve", "to": "Everything we do begins with  the people who walk  through our door,  whose stories and courage  give us the energy  to keep making  care easier to reach.&nbsp;" },
+    { "prefix": "Our work begins with the people we serve", "to": "Everything we do begins with the people who walk through our door, whose stories and courage give us the energy to keep making care easier to reach." },
+    { "prefix": "For Patients & Caregivers", "to": "For Individuals & Couples" },
+    { "prefix": "For Patients &amp; Caregivers", "to": "For Individuals &amp; Couples" },
+    { "prefix": "For Healthcare Professionals", "to": "For Families & Teens" },
+    { "prefix": "We understand your strength and resilience firsthand", "to": "Things people often tell us in a first session" },
+    { "prefix": "\"I wish I could stop worrying constantly", "html": true, "to": "\"I can’t turn my brain off at night. Every small thing turns into a worst-case scenario.\"" },
+    { "prefix": "\"The most ordinary thing I've lost that most people would understand", "html": true, "to": "\"I used to love my job. Now I feel tired all the time, even after a weekend off.\"" },
+    { "prefix": "\"One thing I wish I could let go of as a caregiver", "html": true, "to": "\"We keep having the same argument, and neither of us knows how to stop it.\"" },
+    { "prefix": "\"The most ordinary thing I've lost that most people wouldn't understand", "html": true, "to": "\"Since the loss, everyone expects me to be fine again. Most days I’m just going through the motions.\"" },
+    { "prefix": "\"Living with my illness sounds like screaming", "html": true, "to": "\"My teenager barely talks to me anymore, and I can’t tell if it’s a phase or something more.\"" },
+    { "prefix": "\"I always felt like a bad person because", "html": true, "to": "\"I’ve been holding it together for everyone else for so long. I’m not sure who looks after me.\"" },
+    { "prefix": "Review the research", "to": "Recommended reading" },
+    { "prefix": "Read the peer-reviewed papers that demonstrate", "to": "Free, trusted guides our therapists recommend, from managing anxiety to parenting teens." },
+    { "prefix": "View publications", "to": "View resources" },
+    { "prefix": "What kind of seeker are you?", "to": "Who are you looking for help for?" },
+    { "prefix": "Patient", "exact": true, "to": "Individual" },
+    { "prefix": "Caregiver", "exact": true, "to": "Couple" },
+    { "prefix": "Physician", "exact": true, "to": "Family" }
+  ],
+  "blocks": [
+    {
+      "start": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\"",
+      "html": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"name\":\"Who We Help — Harbor Mind\",\"url\":\"https://harber.traviskenlocean1.workers.dev/who-we-serve\",\"description\":\"Therapy for individuals, couples, families and teens in Miami and online.\",\"about\":{\"@type\":\"MedicalBusiness\",\"name\":\"Harbor Mind\",\"areaServed\":\"Miami, FL\"}}"
+    }
+  ]
+}

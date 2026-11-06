@@ -1,0 +1,65 @@
+{
+  "_note": "Careers (their Join Us). Clips 0-9 map to voice-11..20.mp3 (tools/media/make-voices.js).",
+  "entries": [
+    { "prefix": "Join Us | Compass", "to": "Careers at Harbor Mind | Therapist Jobs in Miami" },
+    { "prefix": "Lead the field at a rare historical moment.", "to": "Join a warm, supportive team of licensed therapists in Miami. Real caseload balance, weekly case consultation, paid training and benefits from day one." },
+    { "prefix": "Join Compass Pathways at a rare historical moment", "to": "Careers at Harbor Mind: therapist roles in Miami and online, with balanced caseloads, weekly consultation, paid training and benefits from day one." },
+    { "prefix": "We’re leading the field, and you can join us", "to": "Do the work you trained for, on a team that protects your time, your growth and your own wellbeing." },
+    { "prefix": "Join us", "exact": true, "to": "Careers" },
+    { "prefix": "What is being part of Compass like?", "to": "What is working at Harbor Mind like?" },
+    { "prefix": "A \"no-ego\" collaborative environment", "to": "A team that consults, not competes" },
+    { "prefix": "We find that when the mission leads, egos recede.", "to": "We meet every week to talk through cases, share what’s working and support each other on the hard days. No one carries a tough caseload alone." },
+    { "prefix": "Driven by our mission above all else", "to": "Clients first, always" },
+    { "prefix": "We’re unrelenting in our pursuit of futures", "to": "Every decision we make, from scheduling to session length, starts with what will help the person in the room." },
+    { "prefix": "A deep personal connection to the work", "to": "A deep personal connection to the work" },
+    { "prefix": "Many of us came here because this work touched", "to": "Many of us came to this field because therapy changed our own lives or the life of someone we love. That shared why keeps us steady." },
+    { "prefix": "Building a historic career", "to": "Room to grow your practice" },
+    { "prefix": "The decisions made at this stage of psychedelic medicine", "to": "Paid training in EMDR, Gottman Method and DBT, supervision toward licensure, and a path to lead a program of your own." },
+    { "prefix": "Read our latest company news", "to": "Read our latest articles, practice updates and more." },
+    { "prefix": "See the news", "to": "See the journal" },
+    { "prefix": "Our benefits", "to": "Our benefits" },
+    { "prefix": "We’re committed to supporting the health and wellbeing of our people", "to": "We look after our clinicians the way we ask clients to look after themselves. Most of these benefits start on your first day." },
+    { "prefix": "Flexibility & Time Off", "to": "Balance & Time Off" },
+    { "prefix": "Flexibility &amp; Time Off", "to": "Balance &amp; Time Off" },
+    { "prefix": "Flexible hours, work-from-home and hybrid", "html": "raw", "to": "<ul><li>Caseloads capped so you have time to prepare, rest and write notes</li><li>Hybrid schedules with in-office and telehealth days</li><li>Paid time off plus a week off between Christmas and New Year’s</li><li>Paid days for your own therapy and wellbeing</li></ul>" },
+    { "prefix": "Parental & Reproductive Support", "to": "Family Support" },
+    { "prefix": "Parental &amp; Reproductive Support", "to": "Family Support" },
+    { "prefix": "Up to 39 total weeks of paid parental leave", "html": "raw", "to": "<ul><li>Paid parental leave for every parent, including adoptive parents</li><li>Flexible return-to-work schedules</li><li>Help finding childcare and elder care</li></ul>" },
+    { "prefix": "Health & Medical", "to": "Health & Medical" },
+    { "prefix": "Fully funded health care premiums for employees", "html": "raw", "to": "<ul><li>Health insurance premiums covered for full-time clinicians</li><li>Dental and vision coverage</li><li>Health savings account with a yearly practice contribution</li></ul>" },
+    { "prefix": "Mental Health & Wellbeing", "to": "Training & Growth" },
+    { "prefix": "Mental Health &amp; Wellbeing", "to": "Training &amp; Growth" },
+    { "prefix": "Therapy &amp; psychiatry coverage for depression", "html": "raw", "to": "<ul><li>Paid certification training in EMDR, Gottman Method and DBT</li><li>Free clinical supervision toward full licensure</li><li>Yearly continuing education budget</li><li>Weekly team case consultation</li></ul>" },
+    { "prefix": "Financial Health", "to": "Pay & Retirement" },
+    { "prefix": "Highly competitive base pay, bonus and equity", "html": "raw", "to": "<ul><li>Competitive salaried and per-session pay</li><li>401(k) with a practice match</li><li>Licensure and professional membership fees covered</li></ul>" },
+
+    { "prefix": "I have lived most of my life managing a mental health condition.", "clip": 0, "to": "I went to therapy for years before I ever became a therapist." },
+    { "prefix": "Empathy and compassion are core values for me", "clip": 1, "to": "Empathy is the core of my work, and here I get to bring my whole self into every session." },
+    { "prefix": "I have spent nearly a decade working in mental health care", "clip": 2, "to": "I spent nearly a decade in community mental health before I found a practice that protects its clinicians." },
+    { "prefix": "My personal quest began long before my career did", "clip": 3, "to": "My reason for doing this began long before my career did: watching my dad struggle quietly for years." },
+    { "prefix": "What stands out here is the empathy that seems inherent", "clip": 4, "to": "What stands out here is how kind everyone is, to clients and to each other." },
+    { "prefix": "At Compass, we all believe that patients are not the problem", "clip": 5, "to": "At Harbor Mind, we believe clients are never the problem. They just haven’t had the right support yet." },
+    { "prefix": "Here at Compass, doing it right means doing it right all the time", "clip": 6, "to": "Doing it right here means doing it right every session, not just when someone is watching." },
+    { "prefix": "When I think about who this work is for", "clip": 7, "to": "When I think about who this work is for, I picture the people I know who are quietly struggling." },
+    { "prefix": "The work we do at Compass shifts from being process-driven", "clip": 8, "to": "The work here feels purpose-driven, not paperwork-driven." },
+    { "prefix": "Seeing this work advance as far as it has stands out to me", "clip": 9, "to": "Watching a client graduate from therapy still stands out to me every single time." }
+  ],
+  "clips": [
+    { "voice": "Microsoft Zira Desktop", "body": "I went to therapy for years before I ever became a therapist. I know what it’s like to sit on the other side of the room and wonder if anyone really gets it. That’s why I work so hard to make sure every client here feels understood from the very first session." },
+    { "voice": "Microsoft David Desktop", "body": "Empathy is the core of my work, and here I get to bring my whole self into every session. Nobody asks me to rush or to treat people like numbers. That freedom makes me a better therapist, and my clients can feel the difference." },
+    { "voice": "Microsoft Zira Desktop", "body": "I spent nearly a decade in community mental health before I found a practice that protects its clinicians. My caseload here is balanced, I have time to prepare, and I actually leave work with energy left for my own family. That changes everything about the care I can give." },
+    { "voice": "Microsoft David Desktop", "body": "My reason for doing this began long before my career did: watching my dad struggle quietly for years. He never got the help he needed because it was too hard to find. Every time a new client tells me they almost didn’t call, I think about him." },
+    { "voice": "Microsoft Zira Desktop", "body": "What stands out here is how kind everyone is, to clients and to each other. We check in on one another after hard sessions, we celebrate wins together, and nobody is too busy to talk through a tricky case." },
+    { "voice": "Microsoft David Desktop", "body": "At Harbor Mind, we believe clients are never the problem. They just haven’t had the right support yet. Our job is to listen, find what fits, and keep adjusting until things start to feel lighter." },
+    { "voice": "Microsoft Zira Desktop", "body": "Doing it right here means doing it right every session, not just when someone is watching. It means being honest, being prepared, and always putting the client’s wellbeing ahead of convenience." },
+    { "voice": "Microsoft David Desktop", "body": "When I think about who this work is for, I picture the people I know who are quietly struggling. Friends, neighbors, people at church. If we can make it a little easier for even one of them to reach out, it’s worth it." },
+    { "voice": "Microsoft Zira Desktop", "body": "The work here feels purpose-driven, not paperwork-driven. We have support for the admin side, so I can spend my energy where it matters, with the person in front of me." },
+    { "voice": "Microsoft David Desktop", "body": "Watching a client graduate from therapy still stands out to me every single time. Seeing someone leave with tools they’ll use for the rest of their life is the best part of this job." }
+  ],
+  "blocks": [
+    {
+      "start": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\"",
+      "html": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"name\":\"Careers — Harbor Mind\",\"url\":\"https://harber.traviskenlocean1.workers.dev/who-we-are/join-us\",\"description\":\"Therapist careers at Harbor Mind in Miami and online.\",\"about\":{\"@type\":\"MedicalBusiness\",\"name\":\"Harbor Mind\",\"areaServed\":\"Miami, FL\"}}"
+    }
+  ]
+}

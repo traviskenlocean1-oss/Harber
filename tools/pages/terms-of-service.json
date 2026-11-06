@@ -1,0 +1,14 @@
+{
+  "_note": "Terms of Service for the fictional Harbor Mind practice (demo).",
+  "entries": [
+    { "prefix": "Terms of Service | Compass", "to": "Terms of Service | Harbor Mind" },
+    { "prefix": "Review the terms and conditions governing use of the Compass", "to": "The terms for using the Harbor Mind website, including how its content may be used and why it is not a substitute for professional care." },
+    { "prefix": "Compass Pathways plc Terms of Service", "to": "Harbor Mind Terms of Service" }
+  ],
+  "blocks": [
+    {
+      "start": "<h3 id=\"S2-compass-pathways-plc-terms-of-service\"",
+      "html": "<h3 id=\"S2-harbor-mind-terms-of-service\" data-toc-heading>Harbor Mind Terms of Service </h3><p>Last updated: November 1, 2026 </p><h4 id=\"S2-1-terms-of-use\">1. Using this website </h4><p>These terms apply to your use of the Harbor Mind website (the “Website”). By using the Website, you agree to these terms and to our <a href=\"/privacy-policy\" target=\"_self\">Privacy Policy</a>. If you don’t agree, please don’t use the Website.</p><p>We may update these terms from time to time. Changes take effect when they’re posted here, so please check back now and then.</p><h4 id=\"S2-2-not-medical-advice\">2. Not a substitute for care </h4><p>The articles, tips and resources on this Website are for general information only. They are not therapy, a diagnosis or medical advice, and reading them does not create a therapist–client relationship.</p><p>If you are in crisis, please don’t rely on this Website. Call or text <a href=\"tel:988\" target=\"_self\">988</a> or call 911.</p><h4 id=\"S2-3-our-content\">3. Our content </h4><p>The text, photos and design of this Website belong to Harbor Mind or the people who licensed them to us. You’re welcome to share links to our pages, but please don’t copy our content for commercial use without asking first.</p><h4 id=\"S2-4-booking\">4. Booking and contacting us </h4><p>Sending a message or booking a consult through the Website doesn’t make you a client yet. Care begins once you’ve completed our intake paperwork and your first session. Please don’t send detailed health information by email.</p><h4 id=\"S2-5-links\">5. Links to other websites </h4><p>We link to trusted outside resources, such as public health organizations and crisis lines. We don’t control those websites and aren’t responsible for their content.</p><h4 id=\"S2-6-liability\">6. Limitation of liability </h4><p>We work hard to keep this Website accurate and available, but it is provided “as is.” To the extent allowed by law, Harbor Mind is not liable for any loss caused by using, or being unable to use, the Website.</p><h4 id=\"S2-7-governing-law\">7. Governing law </h4><p>These terms are governed by the laws of the State of Florida. Questions? Email <a href=\"mailto:hello@harbormindtherapy.com\" target=\"_self\">hello@harbormindtherapy.com</a>.</p>"
+    }
+  ]
+}

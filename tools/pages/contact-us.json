@@ -1,0 +1,18 @@
+{
+  "entries": [
+    { "prefix": "Contact Us | Compass", "to": "Contact Harbor Mind | Therapy in Miami & Online" },
+    { "prefix": "Get in touch with the Compass Pathways team.", "to": "Contact Harbor Mind to book a free 15-minute consult or ask a question about therapy in Miami or online. We reply within one business day." },
+    { "prefix": "Stay in the loop", "to": "Not sure where to start?" },
+    { "prefix": "Subscribe to receive the latest Compass news.", "to": "Read our answers to the questions new clients ask most, from insurance to what the first session feels like." },
+    { "prefix": "Subscribe", "exact": true, "to": "Read the FAQ" }
+  ],
+  "links": {
+    "https://ir.compasspathways.com/resources/email-alerts/default.aspx": "/faq"
+  },
+  "blocks": [
+    {
+      "start": "<p>We welcome your engagement",
+      "html": "<p>We’d love to hear from you. Whether you’re ready to book or just have a question, reach out the way that feels easiest. A member of our care team reads every message and replies within one business day. </p><p>To book a free 15-minute consult, call us at <a href=\"tel:+13055550142\" target=\"_self\">(305) 555-0142</a>. </p><p>For general questions, email us at <a href=\"mailto:hello@harbormindtherapy.com\" target=\"_self\">hello@harbormindtherapy.com</a>. </p><p>For insurance and billing, email us at <a href=\"mailto:billing@harbormindtherapy.com\" target=\"_self\">billing@harbormindtherapy.com</a>. </p><p>Our office is in Brickell, Miami, open Monday to Friday 8am–8pm and Saturday 9am–2pm. Online sessions are available anywhere in Florida.</p><p>Please note that email and voicemail aren’t monitored around the clock. If you are in crisis, call or text <a href=\"tel:988\" target=\"_self\">988</a>, the Suicide &amp; Crisis Lifeline, or call 911. </p>"
+    }
+  ]
+}

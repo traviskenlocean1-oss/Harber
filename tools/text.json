@@ -2,6 +2,21 @@
   "_note": "Harbor Mind copy. 'prefix' matches the START of the reference string (whole value is replaced). html:true wraps the new text in <p>. Fictional practice for a portfolio demo; stats are real and cited (NIMH, WHO, CDC).",
   "entries": [
     {
+      "prefix": "noindex, follow",
+      "exact": true,
+      "to": "index, follow"
+    },
+    {
+      "prefix": "Compass logo white solid.svg",
+      "exact": true,
+      "to": "Harbor Mind"
+    },
+    {
+      "prefix": "Compass logo white lines.svg",
+      "exact": true,
+      "to": "Harbor Mind"
+    },
+    {
       "prefix": "Compass Pathways | Unlocking Pathways to Be",
       "to": "Harbor Mind | Therapy & Counseling in Miami"
     },

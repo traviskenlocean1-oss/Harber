@@ -1,0 +1,54 @@
+{
+  "_note": "What We Treat (their Our Work). Stats cited: NIMH (anxiety 19.1%), VA National Center for PTSD (6 in 100). Practice numbers are fictional demo facts.",
+  "entries": [
+    { "prefix": "Our Work | Compass", "to": "What We Treat | Anxiety, Depression & Trauma Therapy in Miami" },
+    { "prefix": "A decade of rigorous clinical research. 1,450+", "to": "Harbor Mind treats anxiety, depression, trauma, grief, burnout and relationship stress with proven therapies, in Miami and online across Florida." },
+    { "prefix": "A decade of rigorous clinical research advancing", "to": "Therapy for anxiety, depression, trauma and relationships in Miami and online, using CBT, EMDR, DBT skills and Gottman-informed couples work." },
+    { "prefix": "Compass Pathways Clinical Research Programme", "to": "Harbor Mind therapy services" },
+    { "prefix": "The world's largest classic psychedelic clinical programme", "to": "Individual, couples, family and teen therapy for anxiety, depression, trauma, grief and life transitions, in Miami and online." },
+    { "prefix": "We’re dedicated to grounding the potential of our pipeline", "to": "Whatever you’re carrying, there’s a proven way to make it lighter. Here’s where we help most." },
+    { "prefix": "Our work is inseparable from the quality of our science", "to": "Good therapy is personal and proven" },
+    { "prefix": "At Compass, a rigorous, relentless pursuit of evidence", "html": true, "to": "At Harbor Mind, every plan pairs warmth with methods that have decades of research behind them. We start by understanding what you’re facing, then choose the approach that fits: CBT for anxious thinking, EMDR for trauma, DBT skills for overwhelming emotions, or Gottman-informed work for couples.</p><p>Your therapist explains the plan in plain words, sets goals with you, and checks progress every few weeks, so you always know where you stand and what comes next." },
+    { "prefix": "By the numbers", "to": "By the numbers" },
+    { "prefix": "Our research and development has spanned a decade", "to": "Since 2016 we’ve grown carefully, adding clinicians and hours so that getting started stays quick and care stays personal." },
+    { "prefix": "1450+", "exact": true, "to": "12" },
+    { "prefix": "participants across all our trials.", "html": true, "to": "licensed therapists on our team." },
+    { "prefix": "15", "exact": true, "to": "48 hrs" },
+    { "prefix": "trials completed or ongoing.", "html": true, "to": "is our typical wait for a first consult." },
+    { "prefix": "125+", "exact": true, "to": "2" },
+    { "prefix": "research sites around the world.", "html": true, "to": "languages in every service, English and Spanish." },
+    { "prefix": "13", "exact": true, "to": "6" },
+    { "prefix": "countries participating in this essential research.", "html": true, "to": "days a week, with evening sessions until 8pm." },
+    { "prefix": "Our areas of focus", "to": "Where we help most" },
+    { "prefix": "We’re pursuing pathways to restoration", "html": true, "to": "We treat the full range of everyday mental health concerns. These are the two we see most often." },
+    { "prefix": "Treatment-resistant depression (TRD)", "to": "Anxiety and depression" },
+    { "prefix": "TRD is more than a diagnosis", "html": true, "to": "Anxiety is one of the most common mental health conditions in the U.S. An estimated 19.1% of adults had an anxiety disorder in the past year.¹ It often travels with low mood, poor sleep and burnout. With CBT and practical skills, most people learn to quiet the worry loop and feel like themselves again." },
+    { "prefix": "Post-traumatic stress disorder (PTSD)", "to": "Trauma and PTSD" },
+    { "prefix": "PTSD is a condition that may occur in people who have experienced traumatic events,", "html": true, "to": "About 6 out of every 100 people will have PTSD at some point in their lives.² Trauma can leave the body on high alert long after the danger has passed. With EMDR and trauma-focused CBT, we work at a pace that feels safe, so painful memories lose their grip." },
+    { "prefix": "Navigate to Publications", "to": "Navigate to Resources" },
+    { "prefix": "Compass Redefine PTSD study", "to": "Free 15-minute consult" },
+    { "prefix": "We encourage you to visit redefineptsdstudy.com", "to": "Not sure which kind of therapy fits? Book a free call and we’ll help you choose." },
+    { "prefix": "View Redefine", "to": "Book a consult" },
+    { "prefix": "Our program development pipeline", "to": "How care moves forward" },
+    { "prefix": "The focus of the work we do is fueled by our commitment", "html": true, "to": "Every client moves through the same clear steps, at their own pace. Here’s how far each kind of care usually goes." },
+    { "prefix": "Program", "exact": true, "to": "Service" },
+    { "prefix": "DISCOVERY", "exact": true, "to": "FIRST CALL" },
+    { "prefix": "PRECLINICAL", "exact": true, "to": "CONSULT" },
+    { "prefix": "PHASE 1", "exact": true, "to": "ASSESSMENT" },
+    { "prefix": "PHASE 2", "exact": true, "to": "THERAPY" },
+    { "prefix": "PHASE 3", "exact": true, "to": "CHECK-INS" },
+    { "prefix": "REGISTRATION", "exact": true, "to": "GRADUATION" },
+    { "prefix": "COMP360 for TRD", "to": "Short-term therapy" },
+    { "prefix": "COMP360 for PTSD", "to": "Ongoing therapy" },
+    { "prefix": "“Association of Treatment-Resistant Depression with Patient Outcomes", "html": "raw", "to": "<ol><li>“Any Anxiety Disorder.” National Institute of Mental Health. <a href=\"https://www.nimh.nih.gov/health/statistics/any-anxiety-disorder\" target=\"_blank\" rel=\"noopener\">https://www.nimh.nih.gov/health/statistics/any-anxiety-disorder</a></li><li>“How Common Is PTSD in Adults?” U.S. Department of Veterans Affairs, National Center for PTSD. <a href=\"https://www.ptsd.va.gov/understand/common/common_adults.asp\" target=\"_blank\" rel=\"noopener\">https://www.ptsd.va.gov/understand/common/common_adults.asp</a></li></ol>" }
+  ],
+  "links": {
+    "https://redefineptsdstudy.com/": "/contact-us"
+  },
+  "blocks": [
+    {
+      "start": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\"",
+      "html": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"name\":\"What We Treat — Harbor Mind\",\"url\":\"https://harber.traviskenlocean1.workers.dev/our-work\",\"description\":\"Therapy for anxiety, depression, trauma and relationships in Miami and online.\",\"about\":{\"@type\":\"MedicalBusiness\",\"name\":\"Harbor Mind\",\"areaServed\":\"Miami, FL\",\"availableService\":[{\"@type\":\"MedicalTherapy\",\"name\":\"Cognitive behavioral therapy\"},{\"@type\":\"MedicalTherapy\",\"name\":\"EMDR therapy\"},{\"@type\":\"MedicalTherapy\",\"name\":\"Couples therapy\"}]}}"
+    }
+  ]
+}

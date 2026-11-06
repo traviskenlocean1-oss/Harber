@@ -1,0 +1,32 @@
+{
+  "_note": "FAQ. 22 Q&As replace their 22 accordion rows and both FAQPage JSON-LD blocks (build.js 'faq'). Prices/policies are demo placeholders for a fictional practice.",
+  "faqCslp": "accordion.blt626f891b317987b7.en-us",
+  "entries": [
+    { "prefix": "FAQs | Compass", "to": "FAQ | Therapy Questions Answered | Harbor Mind Miami" },
+    { "prefix": "Answers to common questions about Compass Pathways", "to": "Answers to common questions about therapy at Harbor Mind: getting started, cost and insurance, telehealth, teens, privacy and what to expect." }
+  ],
+  "faq": [
+    ["What is Harbor Mind?", "Harbor Mind is a therapy and counseling practice in Miami, Florida. Our licensed therapists work with individuals, couples, families and teens, in person at our Brickell office and online anywhere in Florida. We opened in 2016 to make good therapy easier to start and easier to stay with."],
+    ["Who do you work with?", "Adults, couples, families and teens aged 13 to 19. People come to us for anxiety, depression, stress and burnout, trauma, grief, relationship problems, parenting challenges and big life changes. You don’t need a diagnosis to start."],
+    ["What kinds of therapy do you offer?", "We use approaches with strong research behind them, including cognitive behavioral therapy (CBT), DBT skills, EMDR for trauma, acceptance and commitment therapy (ACT), and Gottman-informed and emotionally focused couples therapy. Your therapist will explain what they recommend and why."],
+    ["Where are you located?", "Our office is in Brickell, Miami. We also offer secure video sessions for anyone located in Florida, so you can meet from home, work or wherever you feel comfortable."],
+    ["How do I get started?", "Call us at (305) 555-0142 or email hello@harbormindtherapy.com to book a free 15-minute consult. We’ll ask a few questions about what you’re looking for and match you with a therapist who fits."],
+    ["How soon can I be seen?", "Most new clients have their first session within a week of their consult. We keep same-week openings on most days, including evenings and Saturday mornings."],
+    ["What happens in the first session?", "The first session is mostly about listening. Your therapist will ask about what brought you in, what you’d like to change, and a little about your history. There’s no pressure to share everything at once, and you’re welcome to ask questions too."],
+    ["How long are sessions, and how often will we meet?", "Individual sessions are 50 minutes and couples and family sessions are 75 minutes. Most people start weekly, then move to every other week as things improve."],
+    ["How long does therapy usually take?", "It depends on your goals. Some people feel real progress in 8 to 12 sessions, while others prefer longer-term support. We check in on progress together every few weeks, so you always know where you stand."],
+    ["Do you take insurance?", "We are in network with several major plans and can provide superbills for out-of-network reimbursement. Contact billing@harbormindtherapy.com and we’ll check your benefits before your first session."],
+    ["How much does a session cost?", "Self-pay rates are $160 for individual sessions and $190 for couples and family sessions. We set aside sliding-scale spots every week, so please ask if cost is a concern."],
+    ["Can I use my HSA or FSA?", "Yes. Therapy is usually an eligible expense for health savings and flexible spending accounts. We accept HSA and FSA cards and can give you a receipt for your records."],
+    ["How does telehealth work?", "Online sessions happen on a secure, private video platform that works on a phone, tablet or computer. You’ll get a link before each appointment. All you need is a private space and a steady internet connection."],
+    ["How do you match me with a therapist?", "During your free consult we learn what you’re looking for, from the kind of support you need to scheduling and language. We then match you with the therapist whose experience and style fit best."],
+    ["What if my therapist isn’t the right fit?", "That’s okay, and it happens. The relationship with your therapist matters, so just tell us and we’ll help you switch to someone else on our team, with no awkwardness."],
+    ["Is what I share confidential?", "Yes. What you share in therapy is private and protected by law. There are a few legal exceptions, such as a risk of serious harm to yourself or others, and your therapist will walk you through them in your first session."],
+    ["Do you see teens, and will parents know what we talk about?", "We see teens aged 13 to 19. Parents are part of the plan through regular check-ins, but the details of what a teen shares stay private unless there is a safety concern. This trust is a big part of what makes teen therapy work."],
+    ["Do you offer sessions in Spanish?", "Yes. Every service we offer is available in English and Spanish, and some of our therapists also speak French and Haitian Creole."],
+    ["Do you prescribe medication?", "Our therapists don’t prescribe medication. If you might benefit from a medication evaluation, we work closely with psychiatrists in Miami and can coordinate care with your doctor."],
+    ["What is your cancellation policy?", "We ask for 24 hours’ notice to cancel or reschedule. Late cancellations may be charged the session fee, though we always understand that emergencies happen."],
+    ["What should I do in a crisis?", "Harbor Mind is not a crisis service. If you are in crisis, call or text 988 to reach the Suicide &amp; Crisis Lifeline any time, or call 911 or go to the nearest emergency room."],
+    ["How can I contact you?", "Call (305) 555-0142, email hello@harbormindtherapy.com, or visit our Contact page. We reply to every message within one business day."]
+  ]
+}

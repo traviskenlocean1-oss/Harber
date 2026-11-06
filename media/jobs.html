@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Current openings at Harbor Mind</title>
+<style>
+  @font-face { font-family: Geist; src: url(/media/fonts/geist-latin.woff2) format("woff2"); font-weight: 100 900; }
+  :root { --ink: #1d1d1b; --muted: #6b6b66; --line: #e4e2dc; --accent: #2f5d73; }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; background: #fff; color: var(--ink); font: 400 15px/1.45 Geist, system-ui, sans-serif; }
+  .wrap { padding: 8px 2px 24px; }
+  h1 { font-weight: 400; font-size: 26px; letter-spacing: -0.01em; margin: 0 0 20px; }
+  .note { border: 1px solid var(--line); border-radius: 8px; padding: 14px 16px; margin-bottom: 28px; font-size: 13px; color: var(--muted); }
+  .note b { display: block; color: var(--ink); font-weight: 500; margin-bottom: 2px; }
+  .note a { color: var(--accent); }
+  .count { font-size: 18px; margin: 0 0 18px; }
+  h2 { font-weight: 500; font-size: 15px; margin: 26px 0 8px; }
+  ul { list-style: none; margin: 0; padding: 0; }
+  li { border-bottom: 1px solid var(--line); }
+  li a { display: block; padding: 12px 0; color: inherit; text-decoration: none; }
+  li a:hover .t { color: var(--accent); }
+  .t { font-size: 14px; font-weight: 500; }
+  .l { font-size: 12px; color: var(--muted); }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>Current openings at Harbor Mind</h1>
+  <div class="note"><b>Don’t see your role?</b>We’re always glad to meet licensed clinicians who share our approach. Send your résumé to <a href="mailto:careers@harbormindtherapy.com" target="_top">careers@harbormindtherapy.com</a>.</div>
+  <p class="count">6 jobs</p>
+  <h2>Clinical</h2>
+  <ul>
+    <li><a target="_top" href="mailto:careers@harbormindtherapy.com?subject=Licensed%20Mental%20Health%20Counselor"><div class="t">Licensed Mental Health Counselor (LMHC)</div><div class="l">Miami, FL · Hybrid</div></a></li>
+    <li><a target="_top" href="mailto:careers@harbormindtherapy.com?subject=Marriage%20%26%20Family%20Therapist"><div class="t">Licensed Marriage &amp; Family Therapist (LMFT)</div><div class="l">Miami, FL · Hybrid</div></a></li>
+    <li><a target="_top" href="mailto:careers@harbormindtherapy.com?subject=Child%20%26%20Adolescent%20Therapist"><div class="t">Child &amp; Adolescent Therapist (LCSW or LMHC)</div><div class="l">Miami, FL · On-site</div></a></li>
+    <li><a target="_top" href="mailto:careers@harbormindtherapy.com?subject=Bilingual%20Therapist"><div class="t">Bilingual Therapist, English / Spanish</div><div class="l">Remote · Florida</div></a></li>
+  </ul>
+  <h2>Training</h2>
+  <ul>
+    <li><a target="_top" href="mailto:careers@harbormindtherapy.com?subject=Registered%20Intern"><div class="t">Registered Intern (MHC, MFT or CSW)</div><div class="l">Miami, FL · Supervision toward licensure included</div></a></li>
+  </ul>
+  <h2>Client Care</h2>
+  <ul>
+    <li><a target="_top" href="mailto:careers@harbormindtherapy.com?subject=Client%20Care%20Coordinator"><div class="t">Client Care Coordinator</div><div class="l">Miami, FL · On-site</div></a></li>
+  </ul>
+</div>
+<script>
+  // tell the parent page how tall the list is, so its iframe shows it without an inner scrollbar
+  function report() { parent.postMessage({ hmJobsHeight: document.documentElement.scrollHeight }, location.origin); }
+  addEventListener('load', report); addEventListener('resize', report); setTimeout(report, 300);
+</script>
+</body>
+</html>
